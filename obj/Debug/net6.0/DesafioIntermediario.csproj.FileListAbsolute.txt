@@ -1,0 +1,15 @@
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioIntermediario\bin\Debug\net6.0\DesafioIntermediario.exe
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioIntermediario\bin\Debug\net6.0\DesafioIntermediario.deps.json
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioIntermediario\bin\Debug\net6.0\DesafioIntermediario.runtimeconfig.json
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioIntermediario\bin\Debug\net6.0\DesafioIntermediario.dll
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioIntermediario\bin\Debug\net6.0\DesafioIntermediario.pdb
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioIntermediario\obj\Debug\net6.0\DesafioIntermediario.csproj.AssemblyReference.cache
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioIntermediario\obj\Debug\net6.0\DesafioIntermediario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioIntermediario\obj\Debug\net6.0\DesafioIntermediario.AssemblyInfoInputs.cache
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioIntermediario\obj\Debug\net6.0\DesafioIntermediario.AssemblyInfo.cs
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioIntermediario\obj\Debug\net6.0\DesafioIntermediario.csproj.CoreCompileInputs.cache
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioIntermediario\obj\Debug\net6.0\DesafioIntermediario.dll
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioIntermediario\obj\Debug\net6.0\refint\DesafioIntermediario.dll
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioIntermediario\obj\Debug\net6.0\DesafioIntermediario.pdb
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioIntermediario\obj\Debug\net6.0\DesafioIntermediario.genruntimeconfig.cache
+C:\Users\Hasselmann\Documents\DEV\ProjetosDio\DesafioIntermediario\obj\Debug\net6.0\ref\DesafioIntermediario.dll
